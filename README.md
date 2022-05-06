@@ -4,6 +4,6 @@
  <ul>
    <li>HTML5</li>
    <li>CSS3</li>
-   <li>JAVASCRIPT<li> 
+   <li>JAVASCRIPT</li> 
  </ul>
   
